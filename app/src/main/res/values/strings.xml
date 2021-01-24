@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MotionLayout_Demo</string>
+    <string name="sports">Motion Layout Animation</string>
+    <string name="cricket">Left</string>
+    <string name="football">Right</string>
+    <string name="middle">Middle</string>
+</resources>
